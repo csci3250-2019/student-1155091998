@@ -39,4 +39,4 @@ Date | Speaker
 9/4 | IET
 
 
-![Image](https://github.com/csci3250-2019/student-1155091998/Project_milestone_2.PNG)
+![Image](https://github.com/csci3250-2019/student-1155091998/blob/master/Project_milestone_2.PNG)
