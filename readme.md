@@ -37,3 +37,6 @@ Date | Speaker
 19/3 | HKIX
 9/4 | Corp. rep.
 9/4 | IET
+
+
+![Image](https://github.com/csci3250-2019/student-1155091998/Project_milestone_2.PNG)
